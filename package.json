@@ -1,0 +1,14 @@
+{
+  "name": "ipna",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/laureanray/ipna",
+  "author": "laureanray <laureanraybahala@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "dotenv": "^8.2.0",
+    "got": "^11.8.0",
+    "yargs": "^16.1.1"
+  }
+}
