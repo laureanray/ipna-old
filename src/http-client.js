@@ -8,5 +8,4 @@ const clientV1 = got.extend({
     responseType: 'json'
 });
 
-
 module.exports = { clientV1 }
