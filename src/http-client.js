@@ -1,7 +1,7 @@
 const got = require('got');
 
 const clientV1 = got.extend({
-    prefixUrl: 'https://ipna.herokuapp.com/v1',
+    prefixUrl: 'https://ipna.herokuapp.com/v1/',
     headers: {
         'Content-Type': 'application/json'
     },

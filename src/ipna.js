@@ -15,5 +15,4 @@ const argv = yargs
     })
     .argv
 
-console.log(argv)
 log('Searching for package name similar to ' + chalk.redBright(argv._[0]))
